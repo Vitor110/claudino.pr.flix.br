@@ -1,0 +1,25 @@
+body{
+background-color: rgb(100, 3, 3)
+}
+h1{
+    background-color: rgb(7, 5, 5);
+    color: aliceblue;
+    text-align: center;
+    font-size: xx-large;
+    margin: 0;
+    padding: 0;
+}
+h2{
+    text-align: center;
+    color: rgb(255, 236, 236);
+    background-color: rgb(8, 7, 7);
+}
+div{
+   font-size: medium;
+   text-align: center;
+
+}
+.cartaztodos{
+    display: grid ;
+    grid-template-columns: 25% 25% 25% 25%;
+}
