@@ -23,3 +23,23 @@ div{
     display: grid ;
     grid-template-columns: 25% 25% 25% 25%;
 }
+
+.filmeum{
+    width: 60%;
+}
+.link{
+ 
+background-color: black;
+color: aliceblue;
+font-size: 20px;
+text-align: center;
+border-radius: 10px;
+}
+.informacoesimg{
+    width:15%;
+}
+.textoinformacao{
+
+ text-align: center;   
+ font-size:140%;
+}
